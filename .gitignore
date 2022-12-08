@@ -1,0 +1,6 @@
+/node_modules/
+idea.txt
+usrprefs.json
+usrprefs/*
+.env
+bot.log
