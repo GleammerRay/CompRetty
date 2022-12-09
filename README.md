@@ -47,7 +47,7 @@ Make sure to download the [latest bot release](https://github.com/GleammerRay/Co
 
 ### 1. Creating a link
 1. Go to [Discord Developer Portal - My Applications](https://discord.com/developers/applications) and create a new application. [A tutorial can be found here](https://github.com/discord-apps/bot-tutorial).
-2. Go to URL Generator under OAuth2 and select bot scope with permissions to send messages and to manage roles.
+2. Go to URL Generator under OAuth2 and select bot scope with permissions to send messages.
 3. Use the generated URL to invite the bot. 🤖
 
 ### 2. Setting up the config
