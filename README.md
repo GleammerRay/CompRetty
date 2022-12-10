@@ -37,7 +37,7 @@ A competition management Discord bot.
 ### Admin commands
 
 - `/setup` - Summon the setup wizard.
-- `/channel clear_players` - Clear competition players.
+- `/kick` - Kick player(s) from competition.
 
 ## Setting up your own CompRetty application
 
