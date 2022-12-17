@@ -33,6 +33,7 @@ A competition management Discord bot.
 
 - `/help` - List all available commands.
 - `/competition` - Show the competition.
+- `/shuffle` - Vote to shuffle players
 
 ### Admin commands
 
