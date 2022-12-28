@@ -33,7 +33,8 @@ A competition management Discord bot.
 
 - `/help` - List all available commands.
 - `/competition` - Show the competition.
-- `/shuffle` - Vote to shuffle players
+- `/get_role` - Get the competition role.
+- `/shuffle` - Vote to shuffle players.
 
 ### Admin commands
 
@@ -100,9 +101,13 @@ Log message types:
 ## Library
 
 Library exports:
+- `PlayerType` - Type of a player. Any, ready or not ready.
+- `VoteType` - Type of a vote. None, against or for.
 - `CompRettyPlayer` - A CompRetty team player. Contains player preferences and methods to operate on them.
 - `CompRettyTeam` - A CompRetty team. Contains preferences, team players and methods to operate on them.
 - `CompRettyTeams` - A wrapper for the competition teams list. Contains teams and team related helper methods.
+- `CompRettyVotes` - Helper class for managing player votes.
+- `CompRettyShuffle` - A CompRetty shuffle. Contains channel ID, teams, votes and methods to operate on them.
 - `CompRettyCompetition` - A CompRetty competition. Contains competition preferences, teams and methods to operate on them.
 - `CompRettyChannel` - A channel that uses the CompRetty bot. Contains channel preferences, current competition and methods to operate on them.
 - `CompRettyGuild` - A guild that uses the CompRetty bot. Contains guild preferences, channels and methods to operate on them.
