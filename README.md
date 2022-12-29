@@ -32,7 +32,7 @@ A competition management Discord bot.
 ### User commands
 
 - `/help` - List all available commands.
-- `/competition` - Show the competition.
+- `/competition`, `/comp`, `/join`, `/pug` - Show the competition.
 - `/get_role` - Get the competition role.
 - `/shuffle` - Vote to shuffle players.
 
