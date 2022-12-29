@@ -101,6 +101,9 @@ Log message types:
 ## Library
 
 Library exports:
+- `BurstStack` - A burst command execution stack. Executes multiple commands in one "burst" and waits a set threshold in between.
+- `startBurstStacks` - Start optional CompRetty specific burst stacks.
+- `stopBurstStacks` - Start CompRetty specific burst stacks.
 - `PlayerType` - Type of a player. Any, ready or not ready.
 - `VoteType` - Type of a vote. None, against or for.
 - `CompRettyPlayer` - A CompRetty team player. Contains player preferences and methods to operate on them.
