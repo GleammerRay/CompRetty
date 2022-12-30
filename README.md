@@ -107,7 +107,7 @@ Library exports:
 - `PlayerType` - Type of a player. Any, ready or not ready.
 - `VoteType` - Type of a vote. None, against or for.
 - `ComprettyEventType` - Type of an event. Left or joined.
-- `CompRettyEvent` - A CompRetty event. Contains player ID, event type and a message.
+- `CompRettyEvent` - A CompRetty event. Contains player ID, team, event type and a message.
 - `CompRettyPlayer` - A CompRetty team player. Contains player preferences and methods to operate on them.
 - `CompRettyTeam` - A CompRetty team. Contains preferences, team players and methods to operate on them.
 - `CompRettyTeams` - A wrapper for the competition teams list. Contains teams and team related helper methods.
