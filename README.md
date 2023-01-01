@@ -39,6 +39,7 @@ A competition management Discord bot.
 ### Admin commands
 
 - `/setup` - Summon the setup wizard.
+- `/force_start` - Force a game to start.
 - `/kick` - Kick player(s) from competition.
 
 ## Setting up your own CompRetty application
