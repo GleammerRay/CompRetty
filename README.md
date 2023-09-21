@@ -36,8 +36,11 @@ A competition management Discord bot.
 - `/join random` - Join a random available team.
 - `/join team` - Join a competition team.
 - `/leave`, `/unpug` - Leave the competition.
+- `/ready` - Ready up.
+- `/unready` - Unready.
 - `/get_role` - Get the competition role.
 - `/shuffle` - Vote to shuffle players.
+- `/get_player_name` - Get player name by user ID.
 
 ### Admin commands
 
