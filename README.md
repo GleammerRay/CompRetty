@@ -41,6 +41,7 @@ A competition management Discord bot.
 - `/get_role` - Get the competition role.
 - `/shuffle` - Vote to shuffle players.
 - `/get_player_name` - Get player name by user ID.
+- `/coin_flip` - Flip a coin.
 
 ### Admin commands
 
