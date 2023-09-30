@@ -43,6 +43,8 @@ A competition management Discord bot.
 - `/shuffle` - Vote to shuffle players.
 - `/get_player_name` - Get player name by user ID.
 - `/coin_flip` - Flip a coin.
+- `/flip` - Flip a coin.
+- `/coin` - Heads or tails.
 
 ### Admin commands
 
