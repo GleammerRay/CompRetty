@@ -35,6 +35,7 @@ A competition management Discord bot.
 - `/competition`, `/comp`, `/pug`, `/join` - Show the competition.
 - `/join random` - Join a random available team.
 - `/join team` - Join a competition team.
+- `/join queue` - Join player queue.
 - `/leave`, `/unpug` - Leave the competition.
 - `/ready` - Ready up.
 - `/unready` - Unready.
