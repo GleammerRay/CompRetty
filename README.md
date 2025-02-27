@@ -39,7 +39,7 @@ A competition management Discord bot.
 - `/leave`, `/unpug` - Leave the competition.
 - `/ready` - Ready up.
 - `/unready` - Unready.
-- `/get_role` - Get the competition role.
+- `/get_role`, `/role`, `/pug_role` - Get the competition role.
 - `/shuffle` - Vote to shuffle players.
 - `/get_player_name` - Get player name by user ID.
 - `/coin_flip` - Flip a coin.
