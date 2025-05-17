@@ -22,6 +22,7 @@ A competition management Discord bot.
 ## Setting up the bot in Discord
 1. Invite one of the currently available bots:
    - [CompRetty](https://discord.com/api/oauth2/authorize?client_id=1050406766204170360&permissions=2048&scope=bot) - by Gleammer#5946
+   - [CompRetty (2)](https://discord.com/oauth2/authorize?client_id=1373229318938955857) - by Gleammer#5946
 2. Go to `Server Settings` -> `Integrations` -> `Bots and Apps` -> `CompRetty`.
 3. Set channels and roles for commands that you want to use.
 4. Set up competitions on all channels that you want to use via the `/setup` command.
