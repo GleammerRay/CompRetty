@@ -9,6 +9,7 @@ A competition management Discord bot.
 2. [Discord slash commands](#discord-slash-commands)
    - [User commands](#user-commands)
    - [Admin commands](#admin-commands)
+      - [Message app commands](#message-app-commands-message-right-click-menu)
 3. [Setting up your own CompRetty application](#setting-up-your-own-compretty-application)
    1. [Creating a link](#1-creating-a-link)
    2. [Setting up the config](#2-setting-up-the-config)
@@ -52,6 +53,12 @@ A competition management Discord bot.
 - `/setup` - Summon the setup wizard.
 - `/force_start` - Force a game to start.
 - `/kick` - Kick player(s) from competition.
+
+#### Message app commands (message right click menu)
+
+- `Kick mentioned player`
+- `Remove competition readme`
+- `Set competition readme`
 
 ## Setting up your own CompRetty application
 
